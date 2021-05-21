@@ -1,3 +1,3 @@
 # project
-HTML,CSS,JS
-Suduko solver using backtracking algorithm
+  HTML,CSS,JS
+  Suduko solver using backtracking algorithm
